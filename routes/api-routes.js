@@ -33,7 +33,6 @@ module.exports = function (app) {
       { new: true }
     )
       .then((workout) => {
-        // workout.exercises.push(req.body);
         res.json(workout);
       })
       .catch((err) => {
