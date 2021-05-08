@@ -5,6 +5,9 @@ This is an application that allows a user to log and keep track of various exerc
 
 [Fitness Tracker](https://calm-basin-11411.herokuapp.com/)
 
-![Portfolio Site](images/screenshot1.png)(images/screenshot2.png)(images/screenshot3.png)
+![Portfolio Site](images/screenshot1.png)
+![Portfolio Site](images/screenshot2.png)
+![Portfolio Site](images/screenshot3.png)
+
 
 
